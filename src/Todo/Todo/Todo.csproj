@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="Class2.cs" />
+    <Compile Remove="Class3.cs" />
+    <Compile Remove="Class4.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="데이터의흐름제어.cs" />
+    <Compile Remove="반복문.cs" />
+  </ItemGroup>
+
 </Project>
