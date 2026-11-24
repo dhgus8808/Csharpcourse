@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\KOH\\Csharpcourse\\src\\Todo\\Todo\\Todo.csproj",
+      "projectUniqueName": "C:\\게임개발계좌제\\@Csharpcourse\\src\\Todo\\Todo\\Todo.csproj",
       "projectName": "Todo",
-      "projectPath": "C:\\KOH\\Csharpcourse\\src\\Todo\\Todo\\Todo.csproj",
+      "projectPath": "C:\\게임개발계좌제\\@Csharpcourse\\src\\Todo\\Todo\\Todo.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\KOH\\Csharpcourse\\src\\Todo\\Todo\\obj\\",
+      "outputPath": "C:\\게임개발계좌제\\@Csharpcourse\\src\\Todo\\Todo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.321/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

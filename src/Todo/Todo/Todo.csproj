@@ -19,6 +19,8 @@
     <Compile Remove="Class3.cs" />
     <Compile Remove="Class4.cs" />
     <Compile Remove="Game.cs" />
+    <Compile Remove="page.cs" />
+    <Compile Remove="Running.cs" />
     <Compile Remove="데이터의흐름제어.cs" />
     <Compile Remove="반복문.cs" />
   </ItemGroup>
