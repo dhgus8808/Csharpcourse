@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\uAC8C\uC784\uAC1C\uBC1C\uACC4\uC88C\uC81C\\@Csharpcourse\\src\\Todo\\Todo\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\KOH\\Csharpcourse\\src\\Todo\\Todo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEDC471-8A12-4B11-9472-8DBCF5D32E18}|Todo.csproj|c:\\koh\\csharpcourse\\src\\todo\\todo\\upgradeloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEDC471-8A12-4B11-9472-8DBCF5D32E18}|Todo.csproj|solutionrelative:upgradeloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpgradeLoop.cs",
+              "DocumentMoniker": "C:\\KOH\\Csharpcourse\\src\\Todo\\Todo\\UpgradeLoop.cs",
+              "RelativeDocumentMoniker": "UpgradeLoop.cs",
+              "ToolTip": "C:\\KOH\\Csharpcourse\\src\\Todo\\Todo\\UpgradeLoop.cs",
+              "RelativeToolTip": "UpgradeLoop.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T05:15:35.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
