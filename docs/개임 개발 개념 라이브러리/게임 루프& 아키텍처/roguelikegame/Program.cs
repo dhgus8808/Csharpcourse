@@ -1,0 +1,3 @@
+using TopDownRoguelikeConsole;
+
+Game.Run();
