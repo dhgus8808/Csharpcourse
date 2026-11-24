@@ -17,6 +17,8 @@
 | 2026-11-19 | 웹입문서 | [개발 과정](./docs/261119_TIL.md) | [#1](____) |
 | 2026-11-20 | UpgradeLoop 실습 | [개발 과정](./docs/261120_TIL.md) | [#1](____) |
 | 2026-11-23 | AI게임개발 실습 | [개발 과정](./docs/261123_TIL.md) | [#1](____) |
+| 2026-11-24 | 깃 pullrequest 실습 | [Rougelike실습](.c:\게임개발계좌제\@Csharpcourse\docs\개임 개발 개념 라이브러리\게임 루프& 아키텍처\roguelikegame\RoguelikeGame_Prompt.md/) | [#1](____) |
+
 
 ## 바로가기
 
